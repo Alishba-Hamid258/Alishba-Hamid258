@@ -23,7 +23,7 @@ Building end-to-end machine learning systems — from data pipelines to producti
 ## 💡 Core Expertise
 
 - **Machine Learning & Deep Learning** — Neural network design, model training, fine-tuning, scikit-learn, PyTorch & TensorFlow
-- **Data Engineering & ETL (in progress)** — Designing data pipelines with Airflow, Spark, Snowflake & SQL Server
+- **Data Engineering & ETL (in progress)** — Designing data pipelines with Airflow, Snowflake & SQL Server
 - **Backend & Model Serving** — Building REST APIs using FastAPI & Flask, deploying web UIs with Streamlit
 - **MLOps & DevOps Fundamentals** — Containerization with Docker, model tracking with MLflow, version control with Git & GitHub
 
