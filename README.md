@@ -96,7 +96,7 @@ Building end-to-end machine learning systems — from data pipelines to producti
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Alishba-Hamid258&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alishba-Hamid258&theme=tokyonight" width="49%" alt="Productive Time" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Hamid258&theme=tokyonight&hide_border=true" width="49%" alt="Contribution Graph" />
 
 </div>
