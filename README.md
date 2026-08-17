@@ -91,12 +91,13 @@ Building end-to-end machine learning systems — from data pipelines to producti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alishba-Hamid258&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Hamid258&layout=compact&theme=vue-dark&hide_border=true" width="34%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alishba-Hamid258&theme=tokyonight" width="49%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alishba-Hamid258&theme=tokyonight" width="49%" alt="Profile Summary" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alishba-Hamid258&theme=vue-dark&hide_border=true" width="84%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Alishba-Hamid258&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alishba-Hamid258&theme=tokyonight&hide_border=true" width="49%" alt="Contribution Graph" />
 
 </div>
 
